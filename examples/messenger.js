@@ -34,12 +34,12 @@ try {
 const PORT = process.env.PORT || 8445;
 
 // Wit.ai parameters
-const WIT_TOKEN = process.env.WIT_TOKEN;
+const WIT_TOKEN = "ONVNU5ZM5S2Z7RQGAEMVG4HU6XM5F3UR"
 
 // Messenger API parameters
-const FB_PAGE_TOKEN = process.env.FB_PAGE_TOKEN;
+const FB_PAGE_TOKEN = "EAAD29eyVGaoBAJWcptubhZA0BkIarbB8ZBZBCB9j7A38CtoXw2z8ZCaoxaeFk0jsM16ZAkrDeuycgLtHVCfhMWnXPC8T8t93ZBZAHq7oeFZB9cOowuJt6WrnpUV5qtcjZC8o8FfFupZASNwZA4lTP1Vo9tuQ8ACli8K2EA2ZCdYAPMLJ7gZDZD"
 if (!FB_PAGE_TOKEN) { throw new Error('missing FB_PAGE_TOKEN') }
-const FB_APP_SECRET = process.env.FB_APP_SECRET;
+const FB_APP_SECRET = "9b427152405a9db5d1a1c664538d3c20"
 if (!FB_APP_SECRET) { throw new Error('missing FB_APP_SECRET') }
 
 let FB_VERIFY_TOKEN = null;
@@ -55,10 +55,10 @@ crypto.randomBytes(8, (err, buff) => {
 // See the Send API reference
 // https://developers.facebook.com/docs/messenger-platform/send-api-reference
 
-const fbMessage = (id, text) => {
+const fbMessage = (id, data) => {
   const body = JSON.stringify({
     recipient: { id },
-    message: { text },
+    message:  data,
   });
   const qs = 'access_token=' + encodeURIComponent(FB_PAGE_TOKEN);
   return fetch('https://graph.facebook.com/me/messages?' + qs, {
@@ -102,15 +102,24 @@ const findOrCreateSession = (fbid) => {
 
 // Our bot actions
 const actions = {
-  send({sessionId}, {text}) {
+  send({sessionId}, response) {
     // Our bot has something to say!
     // Let's retrieve the Facebook user whose session belongs to
     const recipientId = sessions[sessionId].fbid;
     if (recipientId) {
       // Yay, we found our recipient!
+
+       if (response.quickreplies) { // Wit.ai wants us to include quickreplies, alright!
+				response.quick_replies = []; // The quick reply object from Wit.ai needs to be renamed.
+				for (var i = 0, len = response.quickreplies.length; i < len; i++) { // Loop through quickreplies
+					response.quick_replies.push({ title: response.quickreplies[i], content_type: 'text', payload: 'CUSTOM_WIT_AI_QUICKREPLY_ID' + i });
+				}
+				delete response.quickreplies;
+			}
+
       // Let's forward our bot response to her.
       // We return a promise to let our bot know when we're done sending
-      return fbMessage(recipientId, text)
+      return fbMessage(recipientId, response)
       .then(() => null)
       .catch((err) => {
         console.error(
@@ -182,7 +191,7 @@ app.post('/webhook', (req, res) => {
           if (attachments) {
             // We received an attachment
             // Let's reply with an automatic message
-            fbMessage(sender, 'Sorry I can only process text messages for now.')
+            fbMessage(sender, { text: 'Sorry I can only process text messages for now.'})
             .catch(console.error);
           } else if (text) {
             // We received a text message
