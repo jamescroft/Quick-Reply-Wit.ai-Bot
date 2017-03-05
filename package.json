@@ -1,7 +1,7 @@
 {
-  "name": "node-wit",
-  "version": "4.2.0",
-  "description": "Wit.ai Node.js SDK",
+  "name": "Cineplex Bot",
+  "version": "0.0.1",
+  "description": "A chat bot for Cineplex in Brisbane",
   "keywords": [
     "wit",
     "wit.ai",
@@ -16,7 +16,7 @@
     "test": "mocha ./tests/lib.js"
   },
   "repository": "https://github.com/wit-ai/node-wit",
-  "author": "The Wit Team <help@wit.ai>",
+  "author": "James Croft <james.croft@gmail.com>",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "uuid": "^3.0.0"
