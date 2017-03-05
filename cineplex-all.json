@@ -1,0 +1,5054 @@
+{
+ "cinema": [
+  {
+   "location": "BALMORAL",
+   "movie": [
+    {
+     "name": "Moonlight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498992"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498993"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498994"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498995"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498996"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498997"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498998"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498999"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499000"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499001"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499002"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499085"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499086"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499087"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499088"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499089"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499090"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499091"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499092"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499093"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499094"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499095"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499096"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499097"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499098"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Jasper Jones",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499058"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499059"
+        },
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499060"
+        },
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499061"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499062"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499063"
+        },
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499064"
+        },
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499065"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499066"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499067"
+        },
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499068"
+        },
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499069"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499070"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Alone In Berlin",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "4:10 PM",
+         "cinemaNumber": "CIN 5"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499013"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499014"
+        },
+        {
+         "sessionTime": "4:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499015"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499016"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499017"
+        },
+        {
+         "sessionTime": "4:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499018"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499019"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499020"
+        },
+        {
+         "sessionTime": "4:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499021"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Miss Sloane",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "3:20 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499135"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499136"
+        },
+        {
+         "sessionTime": "3:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499137"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499139"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499140"
+        },
+        {
+         "sessionTime": "3:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499141"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499143"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499144"
+        },
+        {
+         "sessionTime": "3:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499145"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499147"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498932"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498933"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498934"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498935"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498936"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498937"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498938"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498939"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498940"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498941"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fences",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 5"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498953"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498954"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498955"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Manchester By The Sea",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499134"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498911"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498912"
+        },
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498913"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499138"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498914"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498915"
+        },
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498916"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499142"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498917"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498918"
+        },
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/498919"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499146"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498920"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fifty Shades Darker",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498893"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498894"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498895"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498896"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498897"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498898"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/498899"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "La La Land",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498847"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498848"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498849"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498850"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lion",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/498872"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498873"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/498874"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498875"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/498876"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498877"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/498878"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Ballerina",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "location": "HAWTHORNE",
+   "movie": [
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499110"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499111"
+        },
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499112"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499113"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499114"
+        },
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499115"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499116"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499117"
+        },
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499118"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499119"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Before I Fall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "5:00 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499033"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499034"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499035"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499036"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499037"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499038"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499039"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499040"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499041"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499042"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:20 PM",
+         "cinemaNumber": "CIN 1"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/498946"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/498947"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/498948"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Great Wall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498965"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498966"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498967"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498968"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:50 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498969"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498970"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "T2: Trainspotting",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498964"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498977"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498978"
+        },
+        {
+         "sessionTime": "8:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498979"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498980"
+        },
+        {
+         "sessionTime": "8:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498981"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "La La Land",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:50 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498858"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498859"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498860"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498861"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498862"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:10 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/498863"
+        },
+        {
+         "sessionTime": "6:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498864"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lion",
+     "day": [
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498881"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498882"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/498883"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Sing",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 3"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Moana",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 2"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "location": "SOUTHBANK",
+   "movie": [
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "3:10 PM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499791"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499792"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499793"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499794"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499795"
+        },
+        {
+         "sessionTime": "3:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499796"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499797"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499798"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499799"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499800"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499801"
+        },
+        {
+         "sessionTime": "3:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499802"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499803"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499804"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499805"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499806"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499807"
+        },
+        {
+         "sessionTime": "3:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499808"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499809"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499810"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499811"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Before I Fall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499760"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499761"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499762"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499763"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499764"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499765"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499766"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499767"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499768"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499769"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499662"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499663"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499664"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499665"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499666"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499667"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499668"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499669"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499670"
+        },
+        {
+         "sessionTime": "6:40 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499671"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Great Wall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499683"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499684"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499685"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499686"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499687"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499688"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499689"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499690"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499691"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499692"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fist Fight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499718"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499719"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499720"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499721"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499722"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499723"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499724"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499725"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499726"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499727"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Rings",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499738"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499739"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499740"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499741"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499742"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499743"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499744"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499745"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499746"
+        },
+        {
+         "sessionTime": "6:50 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499747"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499748"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "T2: Trainspotting",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499700"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499701"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499702"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499703"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499704"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:20 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499705"
+        },
+        {
+         "sessionTime": "9:30 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499706"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fifty Shades Darker",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499648"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499649"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:40 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499650"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "La La Land",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 1"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499634"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499635"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:30 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499636"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lion",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499641"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499642"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499643"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "location": "VICTORIA POINT",
+   "movie": [
+    {
+     "name": "Moonlight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:55 AM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499302"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:55 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499303"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499304"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499305"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:55 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499306"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499307"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499308"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:55 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499309"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499310"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499311"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499464"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499465"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499466"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499467"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499468"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499469"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499470"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499471"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499472"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499473"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499474"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499475"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499476"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499477"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499478"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499479"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499480"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499481"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499482"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499483"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499484"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499485"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499486"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499487"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499488"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499489"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Deluxe Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:55 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499396"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499397"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499398"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499399"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Jasper Jones",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499425"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499426"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499427"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499428"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499429"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499430"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499431"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499432"
+        },
+        {
+         "sessionTime": "2:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499433"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499434"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Before I Fall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499375"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499376"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499377"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499378"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499379"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499380"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499381"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499382"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499383"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499384"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499385"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499386"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499387"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499388"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499389"
+        },
+        {
+         "sessionTime": "9:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499390"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "3:45 PM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499211"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499212"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499213"
+        },
+        {
+         "sessionTime": "3:45 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499214"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499215"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499216"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499217"
+        },
+        {
+         "sessionTime": "3:45 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499218"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499219"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:10 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499220"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499221"
+        },
+        {
+         "sessionTime": "3:45 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499222"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499223"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Great Wall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 9"
+        },
+        {
+         "sessionTime": "7:05 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499265"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499266"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499267"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499268"
+        },
+        {
+         "sessionTime": "7:05 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499269"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499270"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499271"
+        },
+        {
+         "sessionTime": "7:05 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499272"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499273"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499274"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499275"
+        },
+        {
+         "sessionTime": "7:05 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499276"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499277"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fist Fight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:25 PM",
+         "cinemaNumber": "CIN 9"
+        },
+        {
+         "sessionTime": "2:35 PM",
+         "cinemaNumber": "CIN 9"
+        },
+        {
+         "sessionTime": "7:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499326"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499327"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:25 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499328"
+        },
+        {
+         "sessionTime": "2:35 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499329"
+        },
+        {
+         "sessionTime": "7:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499330"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:25 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499331"
+        },
+        {
+         "sessionTime": "2:35 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499332"
+        },
+        {
+         "sessionTime": "7:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499333"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499334"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:25 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499335"
+        },
+        {
+         "sessionTime": "2:35 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499336"
+        },
+        {
+         "sessionTime": "7:20 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499337"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499338"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fences",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 1"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499232"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499233"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499234"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499235"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499236"
+        },
+        {
+         "sessionTime": "12:55 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499237"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Rings",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "5:00 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499350"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499351"
+        },
+        {
+         "sessionTime": "5:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499352"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499353"
+        },
+        {
+         "sessionTime": "5:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499354"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499355"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499356"
+        },
+        {
+         "sessionTime": "5:00 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499357"
+        },
+        {
+         "sessionTime": "9:25 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499358"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "T2: Trainspotting",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:25 PM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499285"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499286"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499287"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499288"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499289"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499290"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fifty Shades Darker",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "3:55 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "8:55 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499187"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499188"
+        },
+        {
+         "sessionTime": "3:55 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499189"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499190"
+        },
+        {
+         "sessionTime": "3:55 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499191"
+        },
+        {
+         "sessionTime": "8:55 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499192"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:40 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499193"
+        },
+        {
+         "sessionTime": "3:55 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499194"
+        },
+        {
+         "sessionTime": "8:55 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499195"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "La La Land",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 4"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499159"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499160"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499161"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lion",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499166"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499167"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:20 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499168"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Ballerina",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:05 AM",
+         "cinemaNumber": "CIN 2"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Monster Trucks",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "11:00 AM",
+         "cinemaNumber": "CIN 5"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Sing",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Middle School: The Worst Years of My Life",
+     "day": [
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499175"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499176"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499177"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "A United Kingdom",
+     "day": [
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499150"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499151"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 9",
+         "bookingURL": "http://members.cineplex.com.au/booking/499152"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "location": "REDBANK CINEMAS",
+   "movie": [
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "1:30 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "4:30 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500062"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500063"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500064"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500065"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500066"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500067"
+        },
+        {
+         "sessionTime": "1:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500068"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500069"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500070"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500071"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500072"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500073"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500074"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500075"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500076"
+        },
+        {
+         "sessionTime": "1:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500077"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500078"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500079"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500080"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500081"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500082"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500083"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500084"
+        },
+        {
+         "sessionTime": "1:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500085"
+        },
+        {
+         "sessionTime": "1:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500086"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500087"
+        },
+        {
+         "sessionTime": "4:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500088"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500089"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500090"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/500091"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Deluxe Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500019"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500020"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500021"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "7:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500022"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Before I Fall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499996"
+        },
+        {
+         "sessionTime": "8:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499997"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499998"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499999"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500000"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500001"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500002"
+        },
+        {
+         "sessionTime": "8:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/500003"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500004"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500005"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500006"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500007"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500008"
+        },
+        {
+         "sessionTime": "8:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/500009"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500010"
+        },
+        {
+         "sessionTime": "12:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500011"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500012"
+        },
+        {
+         "sessionTime": "4:45 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500013"
+        },
+        {
+         "sessionTime": "7:00 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/500014"
+        },
+        {
+         "sessionTime": "8:40 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/500015"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:45 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "3:35 PM",
+         "cinemaNumber": "CIN 6"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499867"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499868"
+        },
+        {
+         "sessionTime": "12:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499869"
+        },
+        {
+         "sessionTime": "3:35 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499870"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499871"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499872"
+        },
+        {
+         "sessionTime": "12:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499873"
+        },
+        {
+         "sessionTime": "3:35 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499874"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499875"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499876"
+        },
+        {
+         "sessionTime": "12:45 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499877"
+        },
+        {
+         "sessionTime": "3:35 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499878"
+        },
+        {
+         "sessionTime": "6:25 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499879"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Great Wall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:50 PM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499892"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499893"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499894"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499895"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499896"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499897"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499898"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499899"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499900"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499901"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:50 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499902"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499903"
+        },
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499904"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 8",
+         "bookingURL": "http://members.cineplex.com.au/booking/499905"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fist Fight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499931"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499932"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499933"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499934"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499935"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499936"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499937"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499938"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499939"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499940"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499941"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499942"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499943"
+        },
+        {
+         "sessionTime": "12:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499944"
+        },
+        {
+         "sessionTime": "4:50 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499945"
+        },
+        {
+         "sessionTime": "6:30 PM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499946"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499947"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Rings",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 7"
+        },
+        {
+         "sessionTime": "6:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499960"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499961"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499962"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499963"
+        },
+        {
+         "sessionTime": "6:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499964"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499965"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499966"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499967"
+        },
+        {
+         "sessionTime": "6:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499968"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499969"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499970"
+        },
+        {
+         "sessionTime": "2:30 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499971"
+        },
+        {
+         "sessionTime": "6:55 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499972"
+        },
+        {
+         "sessionTime": "9:20 PM",
+         "cinemaNumber": "CIN 7",
+         "bookingURL": "http://members.cineplex.com.au/booking/499973"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "T2: Trainspotting",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:50 PM",
+         "cinemaNumber": "CIN 5"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:50 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499910"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:50 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499911"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:50 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499912"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fifty Shades Darker",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 5"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499847"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499848"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499849"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499850"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499851"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499852"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499853"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lion",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499818"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499819"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 6",
+         "bookingURL": "http://members.cineplex.com.au/booking/499820"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Split",
+     "day": [
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499837"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499838"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:45 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499839"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Ballerina",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:50 AM",
+         "cinemaNumber": "CIN 8"
+        },
+        {
+         "sessionTime": "4:05 PM",
+         "cinemaNumber": "CIN 5"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:05 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499827"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:05 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499828"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:05 PM",
+         "cinemaNumber": "CIN 5",
+         "bookingURL": "http://members.cineplex.com.au/booking/499829"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Monster Trucks",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:55 AM",
+         "cinemaNumber": "CIN 2"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:55 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499832"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:55 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499833"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "4:55 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499834"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Sing",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Middle School: The Worst Years of My Life",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "11:50 AM",
+         "cinemaNumber": "CIN 8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Deluxe Family Beauty and the Beast",
+     "day": [
+      {
+       "date": "Wednesday 22nd March 2017",
+       "session": [
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/500093"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Beauty and the Beast",
+     "day": [
+      {
+       "date": "Wednesday 22nd March 2017",
+       "session": [
+        {
+         "sessionTime": "6:45 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/500092"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "location": "NERANG CINEMAS",
+   "movie": [
+    {
+     "name": "Logan",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499606"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499607"
+        },
+        {
+         "sessionTime": "8:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499608"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499609"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499610"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499611"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499612"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499613"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499614"
+        },
+        {
+         "sessionTime": "8:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499615"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499616"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499617"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499618"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499619"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499620"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499621"
+        },
+        {
+         "sessionTime": "8:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499622"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499623"
+        },
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499624"
+        },
+        {
+         "sessionTime": "3:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499625"
+        },
+        {
+         "sessionTime": "4:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499626"
+        },
+        {
+         "sessionTime": "6:15 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499627"
+        },
+        {
+         "sessionTime": "7:15 PM",
+         "cinemaNumber": "CIN 1",
+         "bookingURL": "http://members.cineplex.com.au/booking/499628"
+        },
+        {
+         "sessionTime": "8:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499629"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Before I Fall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "2:20 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "6:00 PM",
+         "cinemaNumber": "CIN 3"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499569"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499570"
+        },
+        {
+         "sessionTime": "2:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499571"
+        },
+        {
+         "sessionTime": "6:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499572"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499573"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499574"
+        },
+        {
+         "sessionTime": "2:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499575"
+        },
+        {
+         "sessionTime": "6:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499576"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499577"
+        },
+        {
+         "sessionTime": "12:10 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499578"
+        },
+        {
+         "sessionTime": "2:20 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499579"
+        },
+        {
+         "sessionTime": "6:00 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499580"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Hidden Figures",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "12:30 PM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499503"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499504"
+        },
+        {
+         "sessionTime": "12:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499505"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499506"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499507"
+        },
+        {
+         "sessionTime": "12:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499508"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499509"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:15 AM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499510"
+        },
+        {
+         "sessionTime": "12:30 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499511"
+        },
+        {
+         "sessionTime": "6:35 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499512"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Great Wall",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2"
+        },
+        {
+         "sessionTime": "3:30 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499524"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499525"
+        },
+        {
+         "sessionTime": "3:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499526"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499527"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499528"
+        },
+        {
+         "sessionTime": "3:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499529"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499530"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "10:00 AM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499531"
+        },
+        {
+         "sessionTime": "3:30 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499532"
+        },
+        {
+         "sessionTime": "9:10 PM",
+         "cinemaNumber": "CIN 2",
+         "bookingURL": "http://members.cineplex.com.au/booking/499533"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fist Fight",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3"
+        },
+        {
+         "sessionTime": "4:30 PM",
+         "cinemaNumber": "CIN 4"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499545"
+        }
+       ]
+      },
+      {
+       "date": "Monday 6th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499546"
+        },
+        {
+         "sessionTime": "4:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499547"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499548"
+        }
+       ]
+      },
+      {
+       "date": "Tuesday 7th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499549"
+        },
+        {
+         "sessionTime": "4:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499550"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499551"
+        }
+       ]
+      },
+      {
+       "date": "Wednesday 8th March 2017",
+       "session": [
+        {
+         "sessionTime": "1:15 PM",
+         "cinemaNumber": "CIN 3",
+         "bookingURL": "http://members.cineplex.com.au/booking/499552"
+        },
+        {
+         "sessionTime": "4:30 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499553"
+        },
+        {
+         "sessionTime": "9:15 PM",
+         "cinemaNumber": "CIN 4",
+         "bookingURL": "http://members.cineplex.com.au/booking/499554"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Monster Trucks",
+     "day": [
+      {
+       "date": "Sunday 5th March 2017",
+       "session": [
+        {
+         "sessionTime": "9:50 AM",
+         "cinemaNumber": "CIN 4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
